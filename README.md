@@ -5,15 +5,17 @@
 -->
 In this GitHub page, you will find my 
 - personal projects and summaries
-- my ML / DS notes and scribbles
+- my ML / DS notes, scribbles, and code backups
 
-
+A little about myself...
 - :mortar_board: @ Georgia Tech :bee: :bee: :bee:
   - Currently in Philosophy of Doctorate in Mechanical Engineering :hammer_and_wrench: :goggles:
   - Graduated Masters of Science in Computational Science and Engineering :computer:
   - Graduated Bachelor of Science in Mechanical Engineering :hammer_and_wrench:  
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working at 
+  - Shock Tube and Advanced Mixing Lab (LINK)
+  - Dow Inc
+
 - 🌱 My current interests
   -  DevOps and ML Engineering  
-- ⚡ Fun fact: ...
-
+ 
