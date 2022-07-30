@@ -5,7 +5,8 @@
 -->
 #### In this GitHub page, you will find my 
 - personal projects and summaries
-- my ML / DS notes, scribbles, and code backups
+- my ML / DS notes, scribbles
+- code backups from competitions / workshops
 
 #### A little about myself...
 - :mortar_board: **@ Georgia Tech** :bee: :bee: :bee:
